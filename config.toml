@@ -1,4 +1,4 @@
-baseURL = '//mobb.ninja'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'MOBB Ninja'
 theme = "hugo-coder"
