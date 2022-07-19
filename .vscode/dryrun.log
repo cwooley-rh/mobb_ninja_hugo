@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ec2-user/hugo_testing/MOBB_Ninja'
+make: Leaving directory '/home/ec2-user/hugo_testing/MOBB_Ninja'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
